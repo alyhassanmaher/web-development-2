@@ -1,4 +1,4 @@
-# Web 2 — Final Project
+# Web Development 2 — Final Project
 
 A college Web Development 2 project applying advanced front-end and/or back-end web technologies.
 
